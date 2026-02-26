@@ -4,9 +4,9 @@ Expedibox operates a distributed network of smart parcel lockers. Lockers emit e
 
 ## Table of Contents
 
-- [How to run the API]
-- [How to run tests](#features)
-- [Short architecture and design rationale](#tech-stack)  
+- [How to run the API](https://github.com/dhwani911/candidateDhwaniGlobalWarming928/blob/main/README.md#how-to-run-the-api)
+- [How to run tests](https://github.com/dhwani911/candidateDhwaniGlobalWarming928/blob/main/README.md#how-to-run-tests)
+- [Short architecture and design rationale](https://github.com/dhwani911/candidateDhwaniGlobalWarming928/blob/main/README.md#short-architecture-and-design-rationale)  
 
 
 ## How to run the API
