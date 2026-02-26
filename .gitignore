@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+venv/bin
+
+# IDE specific
+.idea
+
+# Python
+**/__pycache__/
+*.py[cod]
+*.pyc
+events.jsonl
+test.jsonl
+.venv/
