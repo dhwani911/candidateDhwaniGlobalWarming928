@@ -1,6 +1,6 @@
 # candidateDhwaniGlobalWarming928
 
-Expedibox operates a distributed network of smart parcel lockers. Lockers emit events (door opened/closed, deposit, pickup, faults). A backend service must ingest events, validate them, maintain state, and expose an HTTP API for querying occupancy and audit trails.
+Project is inspired by real-world locker operations which operates a distributed network of smart parcel lockers. Lockers emit events (door opened/closed, deposit, pickup, faults). A backend service must ingest events, validate them, maintain state, and expose an HTTP API for querying occupancy and audit trails.
 
 ## Table of Contents
 
